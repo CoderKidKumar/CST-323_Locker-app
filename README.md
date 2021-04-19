@@ -6,4 +6,4 @@ This application is made for class purposes only, so if you want to use this, us
 
 Azure https://cgulockerapp.azurewebsites.net
 
-Heroku https://gculockerapp.herokuapp.com
+Heroku https://gculockerapp.herokuapp.com -- not online anymore
